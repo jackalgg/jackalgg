@@ -48,9 +48,9 @@ Here's what I bring to the table:
 ---
 
 ### 🛠️ **Currently Working On**
-- 🛡️ Developing advanced **parallel intrusion detection systems**.
-- 🤹 Building tools that bring **efficiency and security** together.  
-- 🎯 Always looking for new ways to **make an impact**!
+- 🛡️ Developing advanced **Anomaly-based intrusion detection systems**.
+- 💻 Developing a network scanning and monitoring tool using Raspberry pi and 5" touch-screen.  
+- 🔒 Studying for CompTIA security +
 
 ---
 
@@ -61,7 +61,7 @@ Here's what I bring to the table:
 
 ---
 
-💡 *""Somewhere, something incredible is waiting to be known.""*  - Carl Sagan
+💡 *"Somewhere, something incredible is waiting to be known."*  - Carl Sagan
 🔗 *[Check out my projects and let's innovate together!](https://github.com/jackalgg)*
 
 
