@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael aka jackalgg!
 
 🚀 **Welcome to my GitHub profile!**  
-🎓 Aspiring **Cloud Security Engineer** | 🌐 Cybersecurity Enthusiast | 💻 Programming Addict  
+🎓 **Cloud Security Engineer** | 🌐 Cybersecurity Enthusiast | 💻 Programmer 
 
 ---
 
@@ -48,9 +48,9 @@ Here's what I bring to the table:
 ---
 
 ### 🛠️ **Currently Working On**
-- 🛡️ Developing advanced **Anomaly-based intrusion detection systems**.
-- 💻 Developing a network scanning and monitoring tool using Raspberry pi and 5" touch-screen.  
-- 🔒 Studying for CompTIA security +
+- 🛡️ Developing advanced **ML Edge Classification w/GPU**.
+- 💻 Developing a network scanning and traffic monitoring tool using Raspberry pi and 5" touch-screen.  
+- 🔒 Studying for AWS Solutions Architect Associate 
 
 ---
 
