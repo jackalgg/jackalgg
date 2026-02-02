@@ -43,7 +43,7 @@ Here's what I bring to the table:
 
 ### 📫 **Let's Connect!**
 - 💼 LinkedIn: https://www.linkedin.com/in/michaelottcyber
-- 📧 Email: ottm@vcu.edu
+- 📧 Email: ottm@posteo.com
 
 ---
 
