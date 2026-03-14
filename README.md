@@ -22,12 +22,13 @@ Recent projects explore secure Kubernetes pipelines, automated infrastructure pr
 
 ### Languages
 Java  
-Python  
+Python 
+Scala
 C  
 Bash  
 SQL  
-GO
-Scala
+GO 
+
 
 ### Cloud and Infrastructure
 AWS  
