@@ -26,13 +26,16 @@ Python
 C  
 Bash  
 SQL  
+GO
+Scala
 
 ### Cloud and Infrastructure
 AWS  
 Terraform  
 Docker  
 Kubernetes  
-GitHub Actions  
+GitHub Actions 
+Jenkins
 
 ### Data and Distributed Systems
 Apache Spark  
