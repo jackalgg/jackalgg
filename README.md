@@ -21,13 +21,13 @@ Recent projects explore secure Kubernetes pipelines, automated infrastructure pr
 ## Technical Skills
 
 ### Languages
+Go  
 Java  
-Python 
-Scala
+Python  
+Scala  
 C  
 Bash  
-SQL  
-GO 
+SQL
 
 
 ### Cloud and Infrastructure
