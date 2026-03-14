@@ -27,7 +27,6 @@ C
 Bash  
 SQL  
 GO
-
 Scala
 
 ### Cloud and Infrastructure
